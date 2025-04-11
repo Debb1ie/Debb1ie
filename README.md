@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/>Google Cloud</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://logolook.net/amazon-web-services-logo/" width="40"/><br/>AWS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/><br/>Canva</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40"/><br/>Notion</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40"/><br/>Slack</td>
