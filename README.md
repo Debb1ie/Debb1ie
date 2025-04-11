@@ -18,7 +18,33 @@
 
 ### 🛠️ Skills & Tools
 
-<table> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> C</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> C++</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> SQL</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> Numpy</td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> Scikit-learn</td> <td><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> Power BI</td> <td><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/> Excel</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> Google Cloud</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> AWS</td> <td><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/> Canva</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git</td> <td><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40"/> Notion</td> </tr> <tr> <td><img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40"/> Slack</td> <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-wordpress-an-open-source-blogging-tool-and-content-management-system-logo-color-tal-revivo.png" width="40"/> WordPress</td> <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-monday-com-cloud-based-platform-for-work-operating-system-logo-color-tal-revivo.png" width="40"/> Monday.com</td> </tr> </table>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>Numpy</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br/>Scikit-learn</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/><br/>Power BI</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/><br/>Excel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/>Google Cloud</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/><br/>Canva</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40"/><br/>Notion</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40"/><br/>Slack</td>
+    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-wordpress-an-open-source-blogging-tool-and-content-management-system-logo-color-tal-revivo.png" width="40"/><br/>WordPress</td>
+  </tr>
+</table>
+
 **Soft Skills:** Leadership, Public Speaking, Team Building, Creative Thinking
 
 ---
