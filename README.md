@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I’m Precious Grace Deborah 👋</h1>
+<h1 align="center">Hi everyone, I’m Precious Aka "Debby"👋</h1>
 <p align="center">
   💡 Computer Science student | 🚀 Tech Community Leader | 🌏 Advocate for Women in Tech
 </p>
