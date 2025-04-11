@@ -41,7 +41,10 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/><br/>Canva</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40"/><br/>Notion</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40"/><br/>Slack</td>
-   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/> WordPress</td>
+<td align="center">
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="40"/><br/>WordPress
+</td>
+
   </tr>
 </table>
 
