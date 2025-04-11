@@ -80,9 +80,9 @@
 
 ### 📈 GitHub Stats
 
-![Precious' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Precious-Manucom&show_icons=true&theme=radical)  
+![Precious' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debb1ie&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Manucom&layout=compact)](https://github.com/Precious-Manucom)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debb1ie&layout=compact)](https://github.com/Debb1ie)  
 
 ---
 
