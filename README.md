@@ -11,7 +11,7 @@
 - 🌟 President @ DEVCON Manila | Director of Programs @ AWS Cloud Club PUP  
 - 🧠 Former COO @ AWS CC PUP | Programs Manager @ AWS CC PH | Data & ML Lead @ GDSC PUP
 - 🌟 Ambassador & Chief Operations Officer @ AWSUG Buildhers+ Philippines  
-- 👩‍🔬 DOST-SEI RA 7687 Scholar | Top Academic Achiever (GWA 98.21)  
+- 👩‍🔬 DOST-SEI RA 7687 Scholar | Top Academic Achiever
 - 🤖 Passionate about: **Data Science**, **Machine Learning**, **Cloud**, **Tech for Good**  
 - ✨ I aspire to make impactful changes through inclusive technology and innovation.  
 
