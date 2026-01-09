@@ -80,12 +80,6 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Precious' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debb1ie&show_icons=true&theme=radical)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debb1ie&layout=compact)](https://github.com/Debb1ie)  
-
----
 
 > 💬 “Empowering tech is one thing. Making it accessible and inclusive — that’s what truly matters.” – Precious ✨
