@@ -1,4 +1,7 @@
-<h1 align="center">Hi everyone, I’m Precious Aka "Debby"👋</h1>
+<h1 align="center">Hi everyone, I'm Precious Grace Deborah S. Manucom — Aka "Debby" 👋</h1>
+<p align="center">
+  <em>Precious Manucom | Deborah Manucom | Precious Grace Manucom</em>
+</p>
 <p align="center">
   💡 Computer Science student | 🚀 Tech Community Leader | 🌏 Advocate for Women in Tech
 </p>
@@ -6,6 +9,8 @@
 ---
 
 ### 👩‍💻 About Me
+
+Precious Grace Deborah S. Manucom is a BS Computer Science student at the Polytechnic University of the Philippines, a tech community leader, and a passionate advocate for Women in Tech in the Philippines.
 
 - 🎓 BS Computer Science @ Polytechnic University of the Philippines  
 - 🌟 President @ DEVCON Manila | Director of Programs @ AWS Cloud Club PUP  
@@ -42,10 +47,9 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/><br/>Canva</td>
     <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40"/><br/>Notion</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40"/><br/>Slack</td>
-<td align="center">
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="40"/><br/>WordPress
-</td>
-
+    <td align="center">
+      <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="40"/><br/>WordPress
+    </td>
   </tr>
 </table>
 
@@ -73,13 +77,11 @@
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
 📧 deborahgrace0118@gmail.com  
 
 ---
 
-
-
-> 💬 “Empowering tech is one thing. Making it accessible and inclusive — that’s what truly matters.” – Precious ✨
+> 💬 "Empowering tech is one thing. Making it accessible and inclusive — that's what truly matters." – Precious Grace Deborah S. Manucom ✨
