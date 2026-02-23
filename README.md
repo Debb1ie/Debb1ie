@@ -1,6 +1,4 @@
 <h1 align="center">Hi everyone, I'm Precious Grace Deborah S. Manucom — Aka "Debby" 👋</h1>
-<p align="center">
-  <em>Precious Manucom | Deborah Manucom | Precious Grace Manucom</em>
 </p>
 <p align="center">
   💡 Computer Science student | 🚀 Tech Community Leader | 🌏 Advocate for Women in Tech
