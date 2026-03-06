@@ -6,16 +6,14 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 Precious Grace Deborah S. Manucom is a BS Computer Science student at the Polytechnic University of the Philippines, a tech community leader, and a passionate advocate for Women in Tech in the Philippines.
 
 - 🎓 BS Computer Science @ Polytechnic University of the Philippines  
-- 🌟 President @ DEVCON Manila | Director of Programs @ AWS Cloud Club PUP  
-- 🧠 Former COO @ AWS CC PUP | Programs Manager @ AWS CC PH | Data & ML Lead @ GDSC PUP
-- 🌟 Ambassador & Chief Operations Officer @ AWSUG Buildhers+ Philippines  
-- 👩‍🔬 DOST-SEI RA 7687 Scholar
-- 🤖 Passionate about: **Data Science**, **Machine Learning**, **Cloud**, **Tech for Good**  
+-  President @ DEVCON Manila | Director of Programs @ AWS Cloud Club PUP  
+-  DOST-SEI RA 7687 Scholar
+-  Passionate about: **Data Science**, **Machine Learning**, **Cloud**, **Tech for Good**  
 - ✨ I aspire to make impactful changes through inclusive technology and innovation.  
 
 ---
@@ -57,21 +55,19 @@ Precious Grace Deborah S. Manucom is a BS Computer Science student at the Polyte
 
 ### 📚 Certifications
 
-- ✅ AWS Certified Cloud Practitioner  
-- 🧠 DataCamp: Data Science in Python, SQL, Pandas, Excel, R  
-- 📊 Google Cloud Quests (BigQuery, Looker, Cloud SQL)  
-- 🧠 Tara ML? Zero-to-Hero ML Journey  
-- 🎤 Inspiring Women in AI & Data  
+-  AWS Certified Cloud Practitioner  
+-  DataCamp: Data Science in Python, SQL, Pandas, Excel, R  
+-  Google Cloud Quests (BigQuery, Looker, Cloud SQL)  
 
 ---
 
 ### 💡 Current Roles
 
-- 👩‍💼 **President** @ DEVCON Manila
-- 🌟 Ambassador & Chief Operations Officer @ AWSUG Buildhers+ Philippines
-- 📊 **Director of Programs** @ AWS Cloud Club PUP  
-- 🧠 **Data & ML Chief Associate & Former Programs Lead** @ GDSC PUP  
-- 🎤 **Executive Auditor & Former Technical Specialist** @ PUP Sandiwa  
+-  **President** @ DEVCON Manila
+- Former Ambassador & Chief Operations Officer @ AWSUG Buildhers+ Philippines
+- **Director of Programs** @ AWS Cloud Club PUP  
+-  **Data & ML Chief Associate & Former Programs Lead** @ GDSC PUP  
+-  **Executive Auditor & Former Technical Specialist** @ PUP Sandiwa  
 
 ---
 
@@ -82,4 +78,4 @@ Precious Grace Deborah S. Manucom is a BS Computer Science student at the Polyte
 
 ---
 
-> 💬 "Empowering tech is one thing. Making it accessible and inclusive — that's what truly matters." – Precious Grace Deborah S. Manucom ✨
+>  "Empowering tech is one thing. Making it accessible and inclusive — that's what truly matters." – Precious Grace Deborah S. Manucom 
