@@ -34,6 +34,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
       <img src="https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white" height="28"/>
       <img src="https://img.shields.io/badge/-Anthropic%20Claude-D97757?logo=anthropic&logoColor=white" height="28"/>
       <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?logo=googlegemini&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" height="28"/>
       <img src="https://img.shields.io/badge/-Ollama-000000" height="28"/>
       <img src="https://img.shields.io/badge/-LangChain-1C3C3C" height="28"/>
       <img src="https://img.shields.io/badge/-LangGraph-1C3C3C" height="28"/>
@@ -47,10 +48,20 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
-      <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="36" title="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="28" title="Scikit-learn"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" title="Jupyter"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Model Training & Experimentation</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" height="28" title="Google Colab"/>
+      <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white" height="28" title="Kaggle"/>
+      <img src="https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white" height="28" title="CUDA / GPU compute"/>
+      <img src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=black" height="28" title="Weights & Biases"/>
+      <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" height="28" title="MLflow"/>
     </td>
   </tr>
   <tr>
@@ -87,7 +98,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
   <tr>
     <td><b>Cloud & Infrastructure</b></td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" height="28" title="AWS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="GCP"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" title="Azure"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
@@ -128,7 +139,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
       <img src="https://img.icons8.com/color/48/000000/canva.png" width="36" title="Canva"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="28" title="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" title="Vite"/>
     </td>
@@ -158,6 +169,27 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
 - DataCamp: AI Engineer for Data Science Associate · AI Fundamentals · Associate Data Analyst · Associate Data Engineer · Python Data Associate · SQL Associate · Data Literacy
 - KNIME L1 Certified
 - GCPinas Tier 1 Completer — 6 Google Cloud Quests (BigQuery, ML, Cloud SQL, Looker, Data Catalog)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debb1ie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debb1ie&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debb1ie&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debb1ie&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
