@@ -48,7 +48,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
-      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="28" title="Scikit-learn"/>
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Scikit_learn_logo_small.svg" width="36" title="Scikit-learn"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" title="Jupyter"/>
@@ -98,7 +98,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
   <tr>
     <td><b>Cloud & Infrastructure</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" height="28" title="AWS"/>
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_Web_Services_Logo.svg" width="48" title="AWS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="GCP"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" title="Azure"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
@@ -139,7 +139,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
       <img src="https://img.icons8.com/color/48/000000/canva.png" width="36" title="Canva"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
-      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="28" title="GitHub"/>
+      <img src="https://img.icons8.com/ios7/600w/FFFFFF/github.png" width="36" title="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" title="Vite"/>
     </td>
