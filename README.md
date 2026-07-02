@@ -172,23 +172,23 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debb1ie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debb1ie&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Debb1ie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debb1ie&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debb1ie&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Debb1ie&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debb1ie&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Debb1ie&theme=tokyonight&no-frame=true&column=4"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
