@@ -27,18 +27,115 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
 
 ### 🛠️ Skills & Tools
 
-| Category | Tools & Technologies |
-|---|---|
-| **AI & LLM** | OpenAI API · Anthropic (Claude) API · Gemini API · Ollama · LangChain · LangGraph · CrewAI · RAG · Prompt Engineering · Context Engineering · Agent Orchestration · MCP |
-| **Machine Learning & Data Science** | TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · Jupyter Notebook · Graph Neural Networks (GAT) · Transformers · CNNs · SVM · Naive Bayes · Time-Series Forecasting · MLflow |
-| **Languages** | Python · JavaScript · TypeScript · Java · Dart · PHP · C# · C++ · Rust · SQL · HTML/CSS |
-| **Frameworks & Libraries** | React · Next.js · Node.js · Express.js · React Native · Flutter · FastAPI · Laravel · Bootstrap · Tailwind CSS |
-| **Cloud & Infrastructure** | AWS (EC2, S3, IAM — Cloud Practitioner Certified) · GCP (BigQuery, Cloud SQL, Looker) · Azure · Docker · OpenTelemetry · Grafana Cloud |
-| **Databases** | MySQL · PostgreSQL · Supabase · MongoDB · ChromaDB · Prisma ORM |
-| **Blockchain & Web3** | Soroban (Stellar) · Internet Computer Protocol (ICP) · Motoko · Smart Contracts |
-| **Data Analytics** | Power BI · Excel · Alteryx · KNIME · Matplotlib · DataCamp (Python/SQL/ML tracks) |
-| **Design & Dev Tools** | Figma · Canva · Git · GitHub · VS Code · Vite |
-| **Soft Skills** | Technical Leadership · Public Speaking · Cross-Functional Team Building · Mentorship · Design Thinking · Community Building |
+<table>
+  <tr>
+    <td><b>AI & LLM</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/-Anthropic%20Claude-D97757?logo=anthropic&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?logo=googlegemini&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/-Ollama-000000" height="28"/>
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C" height="28"/>
+      <img src="https://img.shields.io/badge/-LangGraph-1C3C3C" height="28"/>
+      <img src="https://img.shields.io/badge/-CrewAI-FF6B35" height="28"/>
+      <img src="https://img.shields.io/badge/-RAG-4B8BBE" height="28"/>
+      <img src="https://img.shields.io/badge/-MCP-6C5CE7" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning & Data Science</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
+      <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="36" title="Scikit-learn"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" title="Jupyter"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" title="Dart"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" title="PHP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="36" title="Rust"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="SQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" title="Flutter"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36" title="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Infrastructure</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="GCP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" title="Azure"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" title="Grafana"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" title="Supabase"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" title="Prisma ORM"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Blockchain & Web3</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Soroban%20(Stellar)-7D00FF" height="28"/>
+      <img src="https://img.shields.io/badge/-Internet%20Computer%20(ICP)-3B00B9" height="28"/>
+      <img src="https://img.shields.io/badge/-Motoko-3B00B9" height="28"/>
+      <img src="https://img.shields.io/badge/-Smart%20Contracts-2E7D32" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Analytics</b></td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" title="Power BI"/>
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" title="Excel"/>
+      <img src="https://img.shields.io/badge/-Alteryx-0078D4" height="28"/>
+      <img src="https://img.shields.io/badge/-KNIME-FDB61C" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design & Dev Tools</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
+      <img src="https://img.icons8.com/color/48/000000/canva.png" width="36" title="Canva"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" title="Vite"/>
+    </td>
+  </tr>
+</table>
+
+**Soft Skills:** Technical Leadership · Public Speaking · Cross-Functional Team Building · Mentorship · Design Thinking · Community Building
 
 ---
 
