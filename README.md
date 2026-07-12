@@ -174,7 +174,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
 
 ###  GitHub Stats
 
-<p align="center">
+//<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Debb1ie&theme=tokyonight&hide_border=true" />
 </p>
 
