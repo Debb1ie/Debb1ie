@@ -182,7 +182,7 @@ I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-grace-deborah-manucom-6774b3253/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://sui-portfolio-manucom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://prec1ous-manucom.vercel.app/)
 📧 deborahgrace0118@gmail.com | pmanucom@devcon.ph
 
 ---
