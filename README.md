@@ -16,7 +16,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a BS Computer Science student (Graduating September 2026) at the Polytechnic University of the Philippines and a DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, full-stack development, and UI/UX design**. I build deep learning forecasting systems, agentic AI applications, and production-grade web platforms — and I lead technical communities that bring more people, especially women, into tech.
+I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, full-stack development, and UI/UX design**. I build deep learning forecasting systems, agentic AI applications, and production-grade web platforms — and I lead technical communities that bring more people, especially women, into tech.
 
 - Published researcher — **HydroCast**, ICBDA 2026, Waseda University, Tokyo (graph neural networks for flood forecasting)
 - **President** @ DEVCON Manila | Former **COO** @ AWS Cloud Club PUP / AWS Cloud Club Philippines
