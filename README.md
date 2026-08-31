@@ -155,7 +155,7 @@ I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, ful
 - **President** @ DEVCON Manila
 - **Senior Mission Specialist, Program Management** @ Kadakareer
 - **Intern** @ DEVCON Jumpstart Internship 2026, Cohort 4
-- **Intern** @ WiTech Batangas × Sun Life Global Solutions
+- **Intern** @ OTis Philippines Inc.
 - **IT Intern & Collaboration Program Member** @ Tutorials Dojo
 - **Startup Development Member** @ AWS User Group e:Novators Philippines
 - **DIWA Cohort Member** @ Digital Innovation for Women Advancement
