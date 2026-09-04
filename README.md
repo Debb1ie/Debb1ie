@@ -175,19 +175,17 @@ I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, ful
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debb1ie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!--
-Note: the classic github-readme-stats.vercel.app "stats" and "top-langs" cards are
-left out on purpose — the shared public instance is currently down
-(503 DEPLOYMENT_PAUSED, a known ongoing issue as of 2026). If you want those cards
-back, self-host your own instance from anuraghazra/github-readme-stats on Vercel
-and swap the URL in — that avoids the shared rate limit entirely.
+Note: the classic github-readme-stats.vercel.app "stats"/"top-langs" cards and the
+github-readme-activity-graph card are left out on purpose — as of 2026 the shared
+public Vercel instances for these are down (402 Payment Required / 503 Deployment
+Paused), a known widespread issue, not specific to this repo. The streak card above
+is hosted on Heroku instead and renders reliably. If you want the graph/stats cards
+back, self-host your own instance of anuraghazra/github-readme-stats (or the
+activity-graph project) on your own Vercel account — that sidesteps the shared quota.
 -->
 
 ---
