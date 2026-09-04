@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/precious-grace-deborah-manucom-6774b3253/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Debb1ie"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="https://sui-portfolio-manucom.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white"/></a>
+  <a href="https://prec1ous-manucom.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white"/></a>
   <a href="https://tutorialsdojo.com/author/deborah-manucom"><img src="https://img.shields.io/badge/-Tutorials%20Dojo-FF9900?logo=amazonaws&logoColor=white"/></a>
   <a href="mailto:deborahgrace0118@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
@@ -90,7 +90,7 @@ I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, ful
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" title="Flutter"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36" title="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="36" title="Laravel"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
     </td>
@@ -193,7 +193,7 @@ activity-graph project) on your own Vercel account — that sidesteps the shared
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-grace-deborah-manucom-6774b3253/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://sui-portfolio-manucom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://prec1ous-manucom.vercel.app/)
 
 📧 deborahgrace0118@gmail.com | pmanucom@devcon.ph
 
