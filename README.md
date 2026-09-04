@@ -139,7 +139,7 @@ I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, ful
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
       <img src="https://img.icons8.com/color/48/000000/canva.png" width="36" title="Canva"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
-      <img src="https://img.icons8.com/ios7/600w/FFFFFF/github.png" width="36" title="GitHub"/>
+      <img src="https://img.icons8.com/ios7/600w/000000/github.png" width="36" title="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" title="Vite"/>
     </td>
@@ -172,17 +172,31 @@ I'm a PUPian DOST-SEI Scholar (RA 7687), working across **AI/ML engineering, ful
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debb1ie&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debb1ie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!--
+Note: the classic github-readme-stats.vercel.app "stats" and "top-langs" cards are
+left out on purpose — the shared public instance is currently down
+(503 DEPLOYMENT_PAUSED, a known ongoing issue as of 2026). If you want those cards
+back, self-host your own instance from anuraghazra/github-readme-stats on Vercel
+and swap the URL in — that avoids the shared rate limit entirely.
+-->
+
 ---
 
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-grace-deborah-manucom-6774b3253/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://prec1ous-manucom.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://sui-portfolio-manucom.vercel.app)
+
 📧 deborahgrace0118@gmail.com | pmanucom@devcon.ph
 
 ---
